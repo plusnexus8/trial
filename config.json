@@ -4,7 +4,7 @@
       "status": 1,
       "redirect_url": "",
       "privacy_policy_url": "https://sites.google.com/view/www-aaaw-privacy-policy",
-	  "email_feedback_and_report": "yourmail@gmail.com",
+    "email_feedback_and_report": "yourmail@gmail.com",
       "webview_cache": true,
       "post_list_in_large_style": false,
       "show_post_list_header": true,
@@ -106,7 +106,7 @@
       "name": "Lifestyle",
       "image": "https://i.ibb.co/gwQGc7d/ic-lifestyle.png"
     },
-	{
+  {
       "id": 9,
       "name": "Android",
       "image": "https://i.ibb.co/bWdXnCy/ic-android.png"
@@ -119,9 +119,10 @@
       "title": "Free Fire: Top 10 best M1014 gun skins in the game",
       "image": "https://www.memuplay.com/blog/wp-content/uploads/2022/06/Garena-Free-Fire-quest-ce-que-cest-pourquoi-a-t-il-ete.jpg",
       "content": "https://firebasestorage.googleapis.com/v0/b/solodroid-projects.appspot.com/o/guide%2Ffree-fire-top-10-best-m1014-gun-skins-in-the-game.html?alt=media&token=b2934876-c15a-485b-a573-dc23e55b0ffb",
-      "video": ""
+  "video": "",
+        "download": "https://i.pinimg.com/564x/ab/dc/52/abdc52db893674a7b5dcb767be8776e5.jpg"
     },
-	{
+  {
       "id": 2,
       "category": "How To, Lifestyle",
       "title": "IKEA Malm Bed Building Tips - How to Build IKEA Furniture",
@@ -135,7 +136,8 @@
       "title": "Object Oriented Programming Breakdown for Beginners",
       "image": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/04/photo-1515879218367-8466d910aaa4-scaled.jpg",
       "content": "https://firebasestorage.googleapis.com/v0/b/solodroid-projects.appspot.com/o/guide%2Fobject-oriented-programming-breakdown-for-beginners.html?alt=media&token=43b4d861-532a-4708-9f7a-d8f807acd5b9",
-      "video": ""
+  "video": "",
+        "download": "https://i.pinimg.com/564x/ab/dc/52/abdc52db893674a7b5dcb767be8776e5.jpg"
     },
     {
       "id": 4,
@@ -143,7 +145,8 @@
       "title": "Mobile Legends on PC Bruno Guide: Best Build, Emblem and Gameplay Tips",
       "image": "https://www.memuplay.com/blog/wp-content/uploads/2021/12/maxresdefault-1-320x180.jpg",
       "content": "https://firebasestorage.googleapis.com/v0/b/solodroid-projects.appspot.com/o/guide%2Fmobile-legends-on-pc-bruno-guide-best-build-emblem-and-gameplay-tips.html?alt=media&token=10a21965-f712-48b9-a88d-940ddd969a0f",
-      "video": ""
+  "video": "",
+        "download": "https://i.pinimg.com/564x/ab/dc/52/abdc52db893674a7b5dcb767be8776e5.jpg"
     },
     {
       "id": 5,
@@ -151,7 +154,8 @@
       "title": "PUBG New State on PC: Global launch time based on your country",
       "image": "https://www.memuplay.com/blog/wp-content/uploads/2021/11/pubg_new_state-320x180.jpg",
       "content": "https://firebasestorage.googleapis.com/v0/b/solodroid-projects.appspot.com/o/guide%2Fpubg-new-state-on-pc-global-launch-time-based-on-your-country.html?alt=media&token=3f3e398d-672a-4c68-80aa-7427342527bd",
-      "video": ""
+  "video": "",
+        "download": "https://i.pinimg.com/564x/ab/dc/52/abdc52db893674a7b5dcb767be8776e5.jpg"
     },
     {
       "id": 6,
@@ -159,15 +163,17 @@
       "title": "Awaken: Chaos Era: The complete Reroll guide and tips",
       "image": "https://www.memuplay.com/blog/wp-content/uploads/2022/01/FYNG1F_8ZLA8VQJBE_0H.png",
       "content": "https://firebasestorage.googleapis.com/v0/b/solodroid-projects.appspot.com/o/guide%2Fawaken-chaos-era-the-complete-reroll-guide-and-tips.html?alt=media&token=d7d52cba-9790-4343-a7bb-f7c542cf572a",
-      "video": ""
+  "video": "",
+        "download": "https://i.pinimg.com/564x/ab/dc/52/abdc52db893674a7b5dcb767be8776e5.jpg"
     },
-	{
+  {
       "id": 7,
       "category": "OS, Apps",
       "title": "How to build your own custom Android ROM",
       "image": "https://www.androidauthority.com/wp-content/uploads/2016/10/Android-Open-Source-Project-AOSP-mashup-logo-840w-472h.jpg.webp",
       "content": "file:///android_asset/how-to-build-your-own-custom-android-rom.html",
-      "video": ""
+  "video": "",
+        "download": "https://i.pinimg.com/564x/ab/dc/52/abdc52db893674a7b5dcb767be8776e5.jpg"
     },
     {
       "id": 8,
@@ -175,7 +181,8 @@
       "title": "How to hide your iPhone photos in iOS 16",
       "image": "https://cdn.mos.cms.futurecdn.net/RW5ZgNH4BEKYRDGtoihwND-970-80.jpg.webp",
       "content": "https://firebasestorage.googleapis.com/v0/b/solodroid-projects.appspot.com/o/guide%2Fhow-to-hide-your-iphone-photos-in-ios-16.html?alt=media&token=c10422cd-7c39-4243-b458-efaee85d1a54",
-      "video": ""
+  "video": "",
+        "download": "https://i.pinimg.com/564x/ab/dc/52/abdc52db893674a7b5dcb767be8776e5.jpg"
     },
     {
       "id": 9,
@@ -183,7 +190,8 @@
       "title": "The Witcher 3 Complete Edition Mods List",
       "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-witcher-3/b/b8/1021-1563581150-7199639.png",
       "content": "https://firebasestorage.googleapis.com/v0/b/solodroid-projects.appspot.com/o/guide%2Fthe-witcher-3-complete-edition-mods-list.html?alt=media&token=0b78db4d-9558-4f28-bba4-96cfd54ae3bc",
-      "video": ""
+  "video": "",
+        "download": "https://i.pinimg.com/564x/ab/dc/52/abdc52db893674a7b5dcb767be8776e5.jpg"
     },
     {
       "id": 10,
@@ -193,13 +201,14 @@
       "content": "<p>If you&rsquo;re dreading decking the halls with your relatives this year, there are seasonal survival tips that may help you get through the holidays.</p><p>If you feel holidays are more of a hassle than a hallmark movie, you&rsquo;re not alone. According to a recent poll, at least 75 percent of Americans admit they need to escape family this time of year. But there are ways to make the most of the season.</p><p>On average, Americans will stay with family for three and a half days and nearly 40 percent say finding sleeping arrangements is one of the most stressful parts of preparing for out-of-town family.</p><p>Other top concerns are lack of privacy, family getting on your nerves, and drama between family members.</p><p>&ldquo;Most of us want harmony in our families,&rdquo; says Family &amp; Marriage Therapist, Cherlette McCullough.</p><p>One of the most important sanity savers is to plan early, know who&rsquo;s traveling, and what the sleeping arrangements are.</p><p>Set realistic expectations for yourself. When you adjust your mindset to something that&rsquo;s realistic, you&rsquo;re already ahead of the game. It&rsquo;s important to find a balance between being generous and hospitable. Most importantly, keep the lines of communication open with your significant other about how you are feeling.</p><p>&ldquo;If you&rsquo;re feeling that you&rsquo;re not accepted, I would say the first thing too, talk to your mate about that,&rdquo; said McCullough.</p><p>One last tip, try outsourcing some of your big holiday meals. Experts say order in all of the holiday sides and trimmings and just focus on the turkey or ham. That way you spend less time in the kitchen and more time enjoying the season.</p>",
       "video": "https://www.youtube.com/watch?v=c-Rq61sXpV0"
     },
-	{
+  {
       "id": 11,
       "category": "Lifestyle",
       "title": "Your Step-by-Step Guide to Filling Out a Money Order",
       "image": "https://www.nerdwallet.com/assets/blog/wp-content/uploads/2018/04/19Q2_BK_money-orders-step-by-step_featured_1540x924.jpg",
       "content": "https://firebasestorage.googleapis.com/v0/b/solodroid-projects.appspot.com/o/guide%2Fyour-step-by-step-guide-to-filling-out-a-money-order.html?alt=media&token=a76d5fa3-f36f-4168-b975-314f947e11b6",
-      "video": ""
+  "video": "",
+        "download": "https://i.pinimg.com/564x/ab/dc/52/abdc52db893674a7b5dcb767be8776e5.jpg"
     }
   ],
   "more_apps": [
